@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **2021kuec2047@iiitkota.ac.in**
 
-- 📄 Know about my experiences [Yash Mangal Resume.pdf](http://yashmangal.herokuapp.com/Yash%20Mangal%20Resume.pdf)
+- 📄 Know about my experiences [Yash_Mangal_Resume.pdf](http://yashmangal.herokuapp.com/Yash%20Mangal%20Resume.pdf)
 
 - ⚡ **I achieved a two-digit figure global rank in a contest on codechef**
 
