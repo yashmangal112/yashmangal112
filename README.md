@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend WebDev**
 
-- 👨‍💻 You can also check out my [portfolio](http://yashmangal.herokuapp.com/)
+- 👨‍💻 You can also check out my [**portfolio**](http://yashmangal.herokuapp.com/)
 
 - 💬 Ask me about **Full Stack Web Developer, UI/UX Design**
 
