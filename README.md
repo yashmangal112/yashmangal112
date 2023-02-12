@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Backend WebDev**
 
-- 👨‍💻 You can also check out my [**portfolio**](http://yashmangal.herokuapp.com/)
+- 👨‍💻 You can also check out my [**portfolio**](http://yashmangal112.vercel.app/)
 
 - 💬 Ask me about **Full Stack Web Developer, UI/UX Design**
 
 - 📫 How to reach me **2021kuec2047@iiitkota.ac.in**
 
-- 📄 Know about my experiences [Yash_Mangal_Resume.pdf](http://yashmangal.herokuapp.com/Yash%20Mangal%20Resume.pdf)
+- 📄 Know about my experiences [Yash_Mangal_Resume.pdf](http://yashmangal112.vercel.app/Yash%20Mangal%20Resume.pdf)
 
 - ⚡ **I achieved a two-digit figure global rank in a contest on codechef**
 
