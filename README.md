@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack Web Developer, UI/UX Design**
 
-- 📫 How to reach me **2021kuec2047@iiitkota.ac.in**
+- 📫 How to reach me **yashmangal240@gmail.com**
 
 - 📄 Know about my experiences [Yash_Mangal_Resume.pdf](http://yashmangal112.vercel.app/Yash%20Mangal%20Resume.pdf)
 
